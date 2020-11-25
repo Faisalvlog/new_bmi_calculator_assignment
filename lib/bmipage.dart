@@ -52,7 +52,7 @@ class _BmiPageState extends State<BmiPage> {
       child: Column(
         children: <Widget>[
           AppBar(
-            title: Text("BMI "),
+            title: Text("BMI Calculator"),
             elevation: 0,
             backgroundColor: Colors.green,
 

@@ -74,7 +74,7 @@ class _BmiPageState extends State<BmiPage> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      Image.asset('images/male.png',height: 100.0,width: 100.0,),
+
                       SizedBox(
                         height: 20.0,
                       ),
@@ -113,7 +113,7 @@ class _BmiPageState extends State<BmiPage> {
           Expanded(
             flex: 1,
             child: Container(
-              margin: EdgeInsets.all(10.0),
+              margin: EdgeInsets.all(5.0),
               height: MediaQuery.of(context).size.height * 0.25,
               decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(10.0),

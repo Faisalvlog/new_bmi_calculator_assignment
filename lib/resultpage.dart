@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hello_world/theame.dart';
+import 'package:newbmicalculator/theame.dart';
+
 
 
 class ResultPage extends StatelessWidget {

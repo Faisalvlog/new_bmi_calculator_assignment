@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:hello_world/resultpage.dart';
-import 'package:hello_world/theame.dart';
+import 'package:newbmicalculator/resultpage.dart';
+import 'package:newbmicalculator/theame.dart';
+
 
 
 class BmiPage extends StatefulWidget {
